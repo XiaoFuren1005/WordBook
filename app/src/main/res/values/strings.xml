@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WordBook</string>
+    <string name="btn_add" />
+    <string name="btn_search" />
+    <string name="btn_sss" />
+    <string name="word_name" />
+    <string name="word_translate" />
+    <string name="word_example" />
+</resources>
